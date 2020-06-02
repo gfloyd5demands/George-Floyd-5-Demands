@@ -46,3 +46,7 @@ They end up on what are dubbed "Brady lists"
 They're not given to defense attorneys, and they're never ever ever ever (ever) given to the public
 
 When California recently enacted new laws to make this info known, police unions went apesh*t and sued to block the laws from taking effect
+
+
+![qr](qr.png)
+
